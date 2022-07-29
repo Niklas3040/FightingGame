@@ -1,3 +1,3 @@
-# Fighting Game with similar mechanics of For Honor
+# Multiplayer fighting game with similar mechanics like For Honor
 
 Developed with Unreal Engine 4
